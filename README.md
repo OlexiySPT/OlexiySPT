@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Olexiy
-- 👀 I’m interested in .NET, Azure, Angular, React, Architecture
-- 📫 How to reach me Skype : live:.cid.3871cda37107139b
+- 👋 Hello, my name is Olexiy
+- I have 15 years of experience in .NET development and full-stack with React
+- 👀 I’m interested in relational databases, .NET, React, Azure, and application architecture
+- 📫 You can reach me via email or Teams: oleksii.sereda.ua@gmail.com
 
 <!---
 OlexiySPT/OlexiySPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
