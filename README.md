@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oleksii Sereda
+# 👋 Hello, I'm Olexiy Sereda
 
 ## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
 
@@ -11,6 +11,16 @@ With **15 years of professional experience** in . NET development, I specialize 
 - ☁️ **2 years** with Microsoft Azure (developer and architect experience)
 - 📦 Entity Framework, ADO.NET, LINQ
 - 🔧 **5+ years** with WinForms, desktop application development
+- 
+**Full-Stack Development**
+- ⚛️ **6 years** with React/Redux + ASP.NET Web API
+- 🅰️ **2 years** with Angular + ASP.NET Web API
+- 🎨 Modern frontend:  TypeScript, React, Tailwind
+
+**AI & Innovation**
+- 🤖 AI-assisted development
+- 🧮 AI math basics and theoretical foundations
+- 🎓 Q-learning and machine learning concepts
 
 **Solution Architecture & Design**
 - 🏗️ **Domain-Driven Design (DDD)** - Designing complex business domains
@@ -20,11 +30,6 @@ With **15 years of professional experience** in . NET development, I specialize 
 - 🆕 **Greenfield Development** - Creating brand-new web applications within large SaaS projects using event-driven patterns
 - 🎯 **API Design** - RESTful APIs, API versioning, and best practices
 
-**Full-Stack Development**
-- ⚛️ **6 years** with React/Redux + ASP.NET Web API
-- 🅰️ **2 years** with Angular + ASP.NET Web API
-- 🎨 Modern frontend:  TypeScript, React, Tailwind
-
 **Database Engineering** (20+ years total experience)
 - 🗄️ MS SQL Server (10 years)
 - 🐘 PostgreSQL (6 years)
@@ -32,11 +37,6 @@ With **15 years of professional experience** in . NET development, I specialize 
 - 🔮 Oracle (5 years)
 - 💪 Database design, optimization, and troubleshooting for heavily loaded systems
 - 📊 Performance tuning and query optimization
-
-**AI & Innovation**
-- 🤖 AI-assisted development
-- 🧮 AI math basics and theoretical foundations
-- 🎓 Q-learning and machine learning concepts
 
 ### 💼 Leadership & Best Practices
 
@@ -60,6 +60,33 @@ Architecture:      Microservices, DDD, Event-Driven, RESTful APIs, CQRS
 Testing:           TDD, xUnit, NUnit, Jest
 Methodologies:     Agile, Scrum, Domain-Driven Design
 ```
+
+
+### 🔨 Current Projects
+
+> **Note**: Most of my professional work is under NDA.  The project below is personal pet project that demonstrates my technical skills and approach to modern full-stack development.
+
+**SAI Deal Assistant** - CRM System (Work in Progress) 🚧
+
+A modern CRM system following the startup pattern:  *idea-first, then infrastructure*.
+That's why some infrastructural aspects hasn't been implemented yet (authentication, powerful logging, etc)
+This project showcases my full-stack development capabilities and architectural approach.
+
+- 🔗 **[sai-deal-assistant-documentation](https://github.com/OlexiySPT/sai-deal-assistant-documentation)** 
+  - Some draw.io diagrams and 
+
+- 🔗 **[sai-deal-assistant-backend](https://github.com/OlexiySPT/sai-deal-assistant-backend)** 
+  - ASP.NET Core Web API
+  - PostgreSQL database
+  - Docker containerization
+  - CI/CD with GitHub Actions
+  - Clean Architecture principles
+
+- 🔗 **[sai-deal-assistant-frontend](https://github.com/OlexiySPT/sai-deal-assistant-frontend)** 
+  - React + TypeScript
+  - Redux Toolkit for state management
+  - Tailwind CSS for styling
+  - Modern responsive UI/UX
 
 ### 🎯 Achievements & Highlights
 
@@ -91,45 +118,13 @@ Methodologies:     Agile, Scrum, Domain-Driven Design
 - 🌟 **Event-Driven Systems**: Built brand-new web applications within major SaaS projects using event-driven architecture for high throughput and reliability
 - 🏗️ **Domain-Driven Design**: Applied DDD principles to model complex business domains in Accounting, Telecommunications, and Logistics systems
 - ⚙️ **Performance Optimization**:  Designed and optimized heavily loaded database systems and high-traffic applications
-
-### 🔨 Current Projects
-
-> **Note**: Most of my professional work is under NDA.  The projects below are personal pet projects that demonstrate my technical skills and approach to modern full-stack development.
-
-**SAI Deal Assistant** - CRM System (Work in Progress) 🚧
-
-A modern CRM system following the startup pattern:  *idea-first, then infrastructure*. This project showcases my full-stack development capabilities and architectural approach. 
-
-- 🔗 **[sai-deal-assistant-backend](https://github.com/OlexiySPT/sai-deal-assistant-backend)** 
-  - ASP.NET Core Web API
-  - PostgreSQL database
-  - Docker containerization
-  - CI/CD with GitHub Actions
-  - Clean Architecture principles
-
-- 🔗 **[sai-deal-assistant-frontend](https://github.com/OlexiySPT/sai-deal-assistant-frontend)** 
-  - React + TypeScript
-  - Redux Toolkit for state management
-  - Tailwind CSS for styling
-  - Modern responsive UI/UX
-
-**VSCode Extension** 🔧
-- 🔗 **[redis-graph-workbench](https://github.com/OlexiySPT/redis-graph-workbench)** 
-  - VS Code extension development
-  - TypeScript
-  - Redis Graph integration
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-sereda-ua/)
 - 📧 Email:  oleksii.sereda.ua@gmail.com
-- 💬 Teams: oleksii.sereda.ua@gmail.com
+- 💬 Teams: oleksii. sereda. ua@gmail.com
 - 🌐 Based in Portugal 🇵🇹
 
 ---
 
 💡 *"Quality code is not just about working software—it's about maintainable, testable, and well-documented solutions that stand the test of time."*
-
-<!---
-OlexiySPT/OlexiySPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
