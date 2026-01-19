@@ -73,7 +73,7 @@ That's why some infrastructural aspects hasn't been implemented yet (authenticat
 This project showcases my full-stack development capabilities and architectural approach.
 
 - 🔗 **[sai-deal-assistant-documentation](https://github.com/OlexiySPT/sai-deal-assistant-documentation)** 
-  - Some draw.io diagrams and 
+  - Some draw.io diagrams and text to describe the idea and aspects of the project 
 
 - 🔗 **[sai-deal-assistant-backend](https://github.com/OlexiySPT/sai-deal-assistant-backend)** 
   - ASP.NET Core Web API
