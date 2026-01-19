@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Oleksii Sereda
 
-## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
+## Senior .  NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
 
-With **15 years of professional experience** in . NET development, I specialize in building scalable, high-performance applications using modern technologies and architectural patterns. 
+With **15 years of professional experience** in .  NET development, I specialize in building scalable, high-performance applications using modern technologies and architectural patterns.  
 
 ### 🚀 Core Expertise
 
 **Backend Development**
 - 🎯 **10+ years** with ASP.NET, ASP.NET Core, Web API
 - ☁️ **2 years** with Microsoft Azure (developer and architect experience)
-- 📦 Entity Framework, ADO. NET, LINQ
+- 📦 Entity Framework, ADO.NET, LINQ
 - 🔧 **5+ years** with WinForms, desktop application development
 
 **Solution Architecture & Design**
@@ -50,30 +50,58 @@ With **15 years of professional experience** in . NET development, I specialize 
 ### 🛠️ Technology Stack
 
 ```text
-Languages:        C#, JavaScript, TypeScript, SQL, T-SQL, PL/pgSQL
+Languages:         C#, JavaScript, TypeScript, SQL, T-SQL, PL/pgSQL
 Frameworks:        ASP.NET Core, Entity Framework, React, Redux, Angular
-Cloud:            Microsoft Azure
-Databases:        MS SQL Server, PostgreSQL, Snowflake, Oracle
-DevOps:           Docker, CI/CD Pipelines, GitHub Actions
-Tools:            Git, Visual Studio, VS Code
-Architecture:     Microservices, DDD, Event-Driven, RESTful APIs, CQRS
-Testing:          TDD, xUnit, NUnit, Jest
-Methodologies:    Agile, Scrum, Domain-Driven Design
+Cloud:             Microsoft Azure
+Databases:         MS SQL Server, PostgreSQL, Snowflake, Oracle
+DevOps:            Docker, CI/CD Pipelines, GitHub Actions
+Tools:             Git, Visual Studio, VS Code
+Architecture:      Microservices, DDD, Event-Driven, RESTful APIs, CQRS
+Testing:           TDD, xUnit, NUnit, Jest
+Methodologies:     Agile, Scrum, Domain-Driven Design
 ```
 
-### 🎯 Architectural Highlights
+### 🎯 Achievements & Highlights
 
+**Enterprise Accounting System** 📊
+- 🏢 **5-year ownership** of a critical accounting subsystem within a billing system at a major Ukrainian telecommunications operator
+- 🎯 Complete full-cycle delivery: 
+  - Requirements analysis and business process modeling
+  - System architecture design and database schema development
+  - Full implementation and integration with existing enterprise systems
+  - Ongoing maintenance, enhancement, and optimization
+  - Technical leadership and knowledge sharing
+- 💼 Successfully managed a mission-critical financial system serving a large-scale telecom operation
+- ⚙️ Handled high-volume transactions and complex accounting workflows
+
+**Solo Project Delivery** 🏆
+- 💼 **2 successful small-business automation projects** delivered end-to-end as sole developer
+- 📋 Complete ownership of the full software development lifecycle:  
+  - Requirements analysis and gathering
+  - System design and architecture
+  - Database design and implementation
+  - Full-stack development (backend + frontend)
+  - Testing and quality assurance
+  - Deployment and documentation
+  - Knowledge transfer to maintenance teams
+- ✅ Both projects successfully handed over to production and maintenance
+
+**Architectural Excellence**
 - 🔧 **Microservices Migration**:  Successfully extracted microservices from large enterprise monoliths, improving scalability and maintainability
 - 🌟 **Event-Driven Systems**: Built brand-new web applications within major SaaS projects using event-driven architecture for high throughput and reliability
-- 🏗️ **Domain-Driven Design**: Applied DDD principles to model complex business domains in Accounting, Financial, and Logistics systems
+- 🏗️ **Domain-Driven Design**: Applied DDD principles to model complex business domains in Accounting, Telecommunications, and Logistics systems
 - ⚙️ **Performance Optimization**:  Designed and optimized heavily loaded database systems and high-traffic applications
 
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-sereda-ua/)
-- 📧 Email:  oleksii.sereda.ua@gmail.com
+- 📧 Email: oleksii.sereda.ua@gmail.com
 - 🌐 Based in Portugal 🇵🇹
 
 ---
 
 💡 *"Quality code is not just about working software—it's about maintainable, testable, and well-documented solutions that stand the test of time."*
+
+<! ---
+OlexiySPT/OlexiySPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
