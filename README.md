@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Oleksii Sereda
 
-## Senior .  NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
+## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
 
-With **15 years of professional experience** in .  NET development, I specialize in building scalable, high-performance applications using modern technologies and architectural patterns.  
+With **15 years of professional experience** in . NET development, I specialize in building scalable, high-performance applications using modern technologies and architectural patterns.  
 
 ### 🚀 Core Expertise
 
@@ -23,7 +23,7 @@ With **15 years of professional experience** in .  NET development, I specialize
 **Full-Stack Development**
 - ⚛️ **6 years** with React/Redux + ASP.NET Web API
 - 🅰️ **2 years** with Angular + ASP.NET Web API
-- 🎨 Modern frontend: TypeScript, React, Tailwind
+- 🎨 Modern frontend:  TypeScript, React, Tailwind
 
 **Database Engineering** (20+ years total experience)
 - 🗄️ MS SQL Server (10 years)
@@ -76,7 +76,7 @@ Methodologies:     Agile, Scrum, Domain-Driven Design
 
 **Solo Project Delivery** 🏆
 - 💼 **2 successful small-business automation projects** delivered end-to-end as sole developer
-- 📋 Complete ownership of the full software development lifecycle:  
+- 📋 Complete ownership of the full software development lifecycle:    
   - Requirements analysis and gathering
   - System design and architecture
   - Database design and implementation
@@ -92,16 +92,44 @@ Methodologies:     Agile, Scrum, Domain-Driven Design
 - 🏗️ **Domain-Driven Design**: Applied DDD principles to model complex business domains in Accounting, Telecommunications, and Logistics systems
 - ⚙️ **Performance Optimization**:  Designed and optimized heavily loaded database systems and high-traffic applications
 
+### 🔨 Current Projects
+
+> **Note**: Most of my professional work is under NDA.  The projects below are personal pet projects that demonstrate my technical skills and approach to modern full-stack development.
+
+**SAI Deal Assistant** - CRM System (Work in Progress) 🚧
+
+A modern CRM system following the startup pattern:  *idea-first, then infrastructure*. This project showcases my full-stack development capabilities and architectural approach. 
+
+- 🔗 **[sai-deal-assistant-backend](https://github.com/OlexiySPT/sai-deal-assistant-backend)** 
+  - ASP.NET Core Web API
+  - PostgreSQL database
+  - Docker containerization
+  - CI/CD with GitHub Actions
+  - Clean Architecture principles
+
+- 🔗 **[sai-deal-assistant-frontend](https://github.com/OlexiySPT/sai-deal-assistant-frontend)** 
+  - React + TypeScript
+  - Redux Toolkit for state management
+  - Tailwind CSS for styling
+  - Modern responsive UI/UX
+
+**VSCode Extension** 🔧
+- 🔗 **[redis-graph-workbench](https://github.com/OlexiySPT/redis-graph-workbench)** 
+  - VS Code extension development
+  - TypeScript
+  - Redis Graph integration
+
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-sereda-ua/)
-- 📧 Email: oleksii.sereda.ua@gmail.com
+- 📧 Email:  oleksii.sereda.ua@gmail.com
+- 💬 Teams: oleksii.sereda.ua@gmail.com
 - 🌐 Based in Portugal 🇵🇹
 
 ---
 
 💡 *"Quality code is not just about working software—it's about maintainable, testable, and well-documented solutions that stand the test of time."*
 
-<! ---
+<!---
 OlexiySPT/OlexiySPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
