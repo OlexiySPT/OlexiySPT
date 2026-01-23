@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Olexiy Sereda
+# Olexiy Sereda
 
 ## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
 
