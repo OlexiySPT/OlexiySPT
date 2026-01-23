@@ -1,6 +1,6 @@
 # Olexiy Sereda
 
-## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead
+## Senior . NET Developer | Full-Stack Engineer | Solution Architect | Technical Lead | Database Expert
 
 With **15 years of professional experience** in . NET development, I specialize in building scalable, high-performance applications using modern technologies and architectural patterns.  
 
