@@ -58,6 +58,7 @@ Databases:         MS SQL Server, PostgreSQL, Snowflake, Oracle
 DevOps:            Docker, CI/CD Pipelines, GitHub Actions
 Tools:             Git, Visual Studio, VS Code
 Architecture:      Microservices, DDD, Event-Driven, RESTful APIs, CQRS
+Event brokers:     RabbitMQ, Kafka, Azure ServiceBus and StorageQueue
 Testing:           TDD, xUnit, NUnit, Jest
 Methodologies:     Agile, Scrum, Domain-Driven Design
 ```
