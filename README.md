@@ -123,7 +123,7 @@ This project showcases my full-stack development capabilities and architectural 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-sereda-ua/)
 - 📧 Email:  oleksii.sereda.ua@gmail.com
-- 💬 Teams: oleksii. sereda.ua@gmail.com
+- 💬 Teams: oleksii.sereda.ua@gmail.com
 - 🌐 Based in Portugal 🇵🇹
 
 ---
