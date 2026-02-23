@@ -88,6 +88,7 @@ This project showcases my full-stack development capabilities and architectural 
   - Redux Toolkit for state management
   - Tailwind CSS for styling
   - Modern responsive UI/UX
+  - Backend For Frontend app and Reverse Proxy for security, performance and load-balancing concerns
 
 ### 🎯 Achievements & Highlights
 
